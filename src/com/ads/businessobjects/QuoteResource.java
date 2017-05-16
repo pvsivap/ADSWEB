@@ -48,7 +48,7 @@ public class QuoteResource {
         insuranceTypes.add("Travel");
         insuranceTypes.add("Demo-Test");
         insuranceTypes.add("Demo for Soma");
-        insuranceTypes.add("Travel Insurance - Demo");
+        insuranceTypes.add("Health");
         return insuranceTypes;
     }
 }
