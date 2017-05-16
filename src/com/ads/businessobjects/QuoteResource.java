@@ -47,7 +47,6 @@ public class QuoteResource {
         insuranceTypes.add("Life");
         insuranceTypes.add("Travel");
         insuranceTypes.add("Demo-Test");
-        insuranceTypes.add("Demo for Soma");
         insuranceTypes.add("Health");
         return insuranceTypes;
     }
