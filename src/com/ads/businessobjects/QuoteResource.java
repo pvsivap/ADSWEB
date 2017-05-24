@@ -46,7 +46,7 @@ public class QuoteResource {
         insuranceTypes.add("Marine");
         insuranceTypes.add("Life");
         insuranceTypes.add("Travel");
-        insuranceTypes.add("Demo2-Insurence");
+        insuranceTypes.add("Demo-Insurence");
         insuranceTypes.add("Health");
         return insuranceTypes;
     }
