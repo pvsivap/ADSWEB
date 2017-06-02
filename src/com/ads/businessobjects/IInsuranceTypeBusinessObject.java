@@ -12,5 +12,5 @@ import com.ads.businessentities.*;
 public interface IInsuranceTypeBusinessObject {
 	//Method
 	public InsuranceType Add(InsuranceType insuranceType);
-
+	//
 }
