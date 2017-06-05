@@ -41,13 +41,12 @@ public class QuoteResource {
     }
 
     public List<String> getInsuranceTypeData() {
-        ArrayList<String> insuranceTypes = new ArrayList<String>();
+    	ArrayList<String> insuranceTypes = new ArrayList<String>();
         insuranceTypes.add("Auto");
         insuranceTypes.add("Marine");
         insuranceTypes.add("Life");
         insuranceTypes.add("Travel");
-        insuranceTypes.add("Demo4-Insurence");
-        insuranceTypes.add("Dry-run-demo");
+        insuranceTypes.add("Demo6-Insurence");
         insuranceTypes.add("Health");
         return insuranceTypes;
     }
